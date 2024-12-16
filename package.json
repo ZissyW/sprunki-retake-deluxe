@@ -1,8 +1,8 @@
 {
   "name": "sprunki-retake-deluxe",
   "displayName": "Sprunki retake deluxe",
-  "version": "0.0.1",
-  "description": "Sprunki Retake Deluxe",
+  "version": "1.0.0",
+  "description": "Sprunki Retake Has A Re-ReTake Now! This is highly anticipated sequel to the Sprunki series.",
   "author": "fine",
   "scripts": {
     "dev": "plasmo dev",
@@ -24,8 +24,6 @@
     "typescript": "5.3.3"
   },
   "manifest": {
-    "host_permissions": [
-      "https://*/*"
-    ]
+    "host_permissions": []
   }
 }
